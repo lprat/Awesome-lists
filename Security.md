@@ -3,7 +3,7 @@
  - CISA exploited vuln: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
  - ANSSI Alerte: https://www.cert.ssi.gouv.fr/alerte/
  - OpenCVE: https://www.opencve.io/welcome
- - Tiwwter CVE hashtag: https://twitter.com/hashtag/cve
+ - Twitter CVE hashtag: https://twitter.com/hashtag/cve
 ## Signature
  - File (Yara): 
     - https://github.com/Yara-Rules
