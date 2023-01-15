@@ -1,4 +1,4 @@
-# Awestome list security
+# Awesome list security
 ## CVE
  - CISA exploited vuln: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
  - ANSSI Alerte: https://www.cert.ssi.gouv.fr/alerte/
