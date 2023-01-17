@@ -89,6 +89,7 @@
  - kubernetes check security
    - https://github.com/aquasecurity/kube-bench
    - https://github.com/aquasecurity/kube-hunter
+   - https://kubesec.io/
  - systemd check security: https://github.com/alegrey91/systemd-service-hardening & https://blog.ilearned.eu/systemd-sandboxing.html
 ### Linux
  - Docker filter egress to internet: https://bearstech.com/societe/blog/dns-my-fw/
