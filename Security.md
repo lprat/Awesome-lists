@@ -145,6 +145,8 @@ Create SYSVOL full E:
  - Php: rix (sonarqub)
  - C: Splint
 ## Pentest
+### Global
+  - https://github.com/swisskyrepo/PayloadsAllTheThings/
 ### Labs
   - Kubernetes goat (lab vuln kubernetes): https://github.com/madhuakula/kubernetes-goat
   - Badblood (fills AD domain with structure and thousands of objects): https://github.com/davidprowe/BadBlood
