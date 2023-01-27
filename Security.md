@@ -63,6 +63,7 @@
 ## Hardening
 ### Audit/Compliance
  - AD : https://www.pingcastle.com/
+ - vsphere: https://github.com/DaftPyPosh/vSphereSCG
  - Container compliance: https://github.com/deepfence/compliance
  - Linux compliance: https://github.com/ComplianceAsCode/content
  - Ansible collection hardening: https://github.com/dev-sec/ansible-collection-hardening
