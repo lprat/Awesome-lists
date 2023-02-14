@@ -13,6 +13,8 @@
     - https://docs.docker.com/registry/deploying/
     - 
   - portainer: https://github.com/portainer/portainer
+## Cloud
+  - URLs of Microsoft Administrator Sites: http://msportals.io/?search=
 ## install
   - clonezilla: https://clonezilla.org/downloads.php
   - cobbler: https://cobbler.readthedocs.io/en/latest/quickstart-guide.html
