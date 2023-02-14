@@ -67,7 +67,7 @@
  - Container compliance: https://github.com/deepfence/compliance
  - Linux compliance: https://github.com/ComplianceAsCode/content
  - Ansible collection hardening: https://github.com/dev-sec/ansible-collection-hardening
- - CIS:
+ - CIS (https://www.cisecurity.org/cis-benchmarks/):
    - https://github.com/CISOfy/lynis
    - https://github.com/ovh/debian-cis
    - https://github.com/dev-sec/cis-dil-benchmark
