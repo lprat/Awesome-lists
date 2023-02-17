@@ -65,6 +65,7 @@
  - AD : https://www.pingcastle.com/
  - vsphere: https://github.com/DaftPyPosh/vSphereSCG
  - Container compliance: https://github.com/deepfence/compliance
+ - Openscap: https://github.com/OpenSCAP/openscap
  - Linux compliance: https://github.com/ComplianceAsCode/content
  - Ansible collection hardening: https://github.com/dev-sec/ansible-collection-hardening
  - CIS (https://www.cisecurity.org/cis-benchmarks/):
