@@ -73,6 +73,7 @@
    - https://github.com/dev-sec/cis-dil-benchmark
    - https://github.com/dev-sec/cis-docker-benchmark
    - https://github.com/dev-sec/cis-kubernetes-benchmark
+   - https://github.com/aquasecurity/chain-bench
  - AV/EDR: https://github.com/NextronSystems/APTSimulator
  - NIDS: https://github.com/3CORESec/testmynids.org
  - Waf:
