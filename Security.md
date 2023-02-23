@@ -71,6 +71,8 @@
  - Openscap: https://github.com/OpenSCAP/openscap
  - Linux compliance: https://github.com/ComplianceAsCode/content
  - Ansible collection hardening: https://github.com/dev-sec/ansible-collection-hardening
+ - Git Leaks: https://github.com/zricethezav/gitleaks
+ - Secrets leaks in git/s3/file/syslog/... : https://github.com/trufflesecurity/trufflehog
  - CIS (https://www.cisecurity.org/cis-benchmarks/):
    - https://github.com/CISOfy/lynis
    - https://github.com/ovh/debian-cis
