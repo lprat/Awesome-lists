@@ -4,6 +4,9 @@
  - ANSSI Alerte: https://www.cert.ssi.gouv.fr/alerte/
  - OpenCVE: https://www.opencve.io/welcome
  - Twitter CVE hashtag: https://twitter.com/hashtag/cve
+## Tactics and techniques 
+ - https://pbom.dev/
+ - https://attack.mitre.org/
 ## Signature
  - File (Yara): 
     - https://github.com/Yara-Rules
