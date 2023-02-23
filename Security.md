@@ -79,6 +79,7 @@
    - https://github.com/dev-sec/cis-kubernetes-benchmark
    - https://github.com/aquasecurity/chain-bench
    - https://github.com/prowler-cloud/prowler
+   - https://github.com/cloud-custodian/cloud-custodian/
  - AV/EDR: https://github.com/NextronSystems/APTSimulator
  - NIDS: https://github.com/3CORESec/testmynids.org
  - Waf:
