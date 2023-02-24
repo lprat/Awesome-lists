@@ -11,8 +11,8 @@
   - registry:
     - Harbor: https://goharbor.io/ 
     - https://docs.docker.com/registry/deploying/
-    - 
   - portainer: https://github.com/portainer/portainer
+  - https://landscape.cncf.io/
 ## Cloud
   - URLs of Microsoft Administrator Sites: http://msportals.io/?search=
 ## install
