@@ -82,6 +82,7 @@
    - https://github.com/aquasecurity/chain-bench
    - https://github.com/prowler-cloud/prowler
    - https://github.com/cloud-custodian/cloud-custodian/
+   - https://github.com/Checkmarx/kics
  - AV/EDR: https://github.com/NextronSystems/APTSimulator
  - NIDS: https://github.com/3CORESec/testmynids.org
  - Waf:
