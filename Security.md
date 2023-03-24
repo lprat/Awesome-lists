@@ -41,6 +41,7 @@
  - O365:
    - https://github.com/ANSSI-FR/DFIR-O365RC
    - https://github.com/CrowdStrike/CRT
+   - https://github.com/cisagov/untitledgoosetool
 ## Quarantine extract
  - Dexray: http://hexacorn.com/d/DeXRAY.pl
 ## Analyze artifacts
