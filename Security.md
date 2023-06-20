@@ -91,7 +91,7 @@
    - https://github.com/wallarm/gotestwaf
  - Container vulnerabilities scan
    - https://github.com/aquasecurity/trivy
-   - https://github.com/anchore/anchore-engine
+   - https://github.com/anchore/grype
    - https://github.com/docker/docker-bench-security
    - https://github.com/quay/clair
  - check vulnerabilties in infrastructure as code/container
