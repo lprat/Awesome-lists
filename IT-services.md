@@ -31,7 +31,7 @@
 ### Creation instance
   - Talos k8: https://github.com/rgl/terraform-libvirt-talos
   - Windows: https://github.com/rgl/terraform-libvirt-windows-example
-  - Ubuntu: https://github.com/lprat/terraform-libvirt-ubuntu_cloudimage-example
+  - Ubuntu: https://github.com/lprat/terraform-libvirt-linux_cloudimage-example
 ## IAM/SSO
   - Keycloack: https://www.keycloak.org/
   - Authelia: https://www.authelia.com/
