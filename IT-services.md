@@ -13,6 +13,7 @@
     - https://docs.docker.com/registry/deploying/
   - portainer: https://github.com/portainer/portainer
   - https://landscape.cncf.io/
+  - TALOS: https://www.talos.dev/
 ## Cloud
   - URLs of Microsoft Administrator Sites: http://msportals.io/?search=
 ## install
@@ -24,7 +25,14 @@
   - ansible: https://galaxy.ansible.com/
   - packer: https://www.packer.io/
   - terraform: https://www.terraform.io/
-## IAM
+### Creation Image
+  - Windows: https://github.com/rgl/windows-vagrant
+  - Debian: https://github.com/rgl/debian-vagrant (you can use image cloud if you dont want build from iso install)
+### Creation instance
+  - Talos k8: https://github.com/rgl/terraform-libvirt-talos
+  - Windows: https://github.com/rgl/terraform-libvirt-windows-example
+  - Ubuntu: https://github.com/lprat/terraform-libvirt-ubuntu_cloudimage-example
+## IAM/SSO
   - Keycloack: https://www.keycloak.org/
   - Authelia: https://www.authelia.com/
 ## Supervision
