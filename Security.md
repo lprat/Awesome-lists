@@ -67,7 +67,9 @@
 ## Hardening
 ### Audit/Compliance
  - AD : https://www.pingcastle.com/
- - vsphere: https://github.com/DaftPyPosh/vSphereSCG
+ - vsphere:
+   - https://github.com/DaftPyPosh/vSphereSCG
+   - https://github.com/karimhabush/cis-vsphere
  - Container compliance: https://github.com/deepfence/compliance
  - Openscap: https://github.com/OpenSCAP/openscap
  - Linux compliance: https://github.com/ComplianceAsCode/content
