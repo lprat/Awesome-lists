@@ -37,6 +37,7 @@
   - Authelia: https://www.authelia.com/
 ## Supervision
   - Prometheus (+ alertmanager + cadvisor): https://prometheus.io/
+  - VictoriaMetrics (+ alertmanager) : https://github.com/VictoriaMetrics
 ## PKI as code
   - https://github.com/cloudflare/cfssl
 ## Bastion
