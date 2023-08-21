@@ -35,6 +35,9 @@
 ## IAM/SSO
   - Keycloack: https://www.keycloak.org/
   - Authelia: https://www.authelia.com/
+## API Management
+  - Kong: https://docs.konghq.com/hub/
+  - Gravitee: https://www.gravitee.io/
 ## Supervision
   - Prometheus (+ alertmanager + cadvisor): https://prometheus.io/
   - VictoriaMetrics (+ alertmanager) : https://github.com/VictoriaMetrics
@@ -44,6 +47,7 @@
   - Guacamole: https://guacamole.apache.org/
   - teleport: https://goteleport.com/
 ## Logs
+  - Loki (+ graphana): https://github.com/grafana/loki
   - filebeat (+elastic & kibana) :  https://www.elastic.co/fr/beats/filebeat
   - Rsyslog
 ## SSH
