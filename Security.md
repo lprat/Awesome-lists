@@ -56,6 +56,7 @@
    - Capacities: https://github.com/mandiant/capa & https://git.sr.ht/~prabhu/blint
    - https://github.com/mandiant/speakeasy
  - Sandbox: https://github.com/cuckoosandbox/cuckoo & https://github.com/hatching/vmcloak
+ - Assemblyline: https://cybercentrecanada.github.io/assemblyline4_docs/overview/services/
 ## Memory analysis
  - Volatility: https://github.com/volatilityfoundation/volatility3
 ## MBR/VBR analysis
