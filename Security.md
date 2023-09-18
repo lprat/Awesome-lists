@@ -107,6 +107,7 @@
    - https://kubesec.io/
  - systemd check security: https://github.com/alegrey91/systemd-service-hardening & https://blog.ilearned.eu/systemd-sandboxing.html
  - Test/valide conf: https://github.com/goss-org/goss
+ - Audit ACL & Firewall rules: https://www.batfish.org/
 ### Linux
  - Docker filter egress to internet: https://bearstech.com/societe/blog/dns-my-fw/
  - Linux sandbox firejail: https://github.com/netblue30/firejail
