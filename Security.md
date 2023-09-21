@@ -188,6 +188,7 @@ Create SYSVOL full E:
 ### Network
   - Responder: https://github.com/lgandx/Responder
   - bettercap: https://github.com/bettercap/bettercap
+  - nuclei: https://github.com/projectdiscovery/nuclei
 ### Wifi
   - wifiphisher: https://github.com/wifiphisher/wifiphisher
   - wifite2: https://github.com/derv82/wifite2
