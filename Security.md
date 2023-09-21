@@ -66,8 +66,10 @@
 ## Timeline analysis
  - Timesketch: https://github.com/google/timesketch/
 ## Hardening
+### Platform Aggregate Risk/Vuln
+ - Defectdojo: https://github.com/DefectDojo/django-DefectDojo
+ - GAPPS: https://github.com/bmarsh9/gapps (dont work fine with firefox, use chrome)
 ### Audit/Compliance
- - Security compliance platform - GAPPS: https://github.com/bmarsh9/gapps (dont work fine with firefox, use chrome)
  - AD : https://www.pingcastle.com/
  - vsphere:
    - https://github.com/DaftPyPosh/vSphereSCG
