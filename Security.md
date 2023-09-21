@@ -127,6 +127,7 @@
  - https://github.com/simeononsecurity/Standalone-Windows-STIG-Script
  - https://github.com/Sycnex/Windows10Debloater
  - https://github.com/nsacyber/Windows-Secure-Host-Baseline
+
 #### AD
  - https://github.com/davidprowe/AD_Sec_Tools
  - https://github.com/mtth-bfft/adeleg
@@ -168,7 +169,8 @@ Create SYSVOL full E:
 ### Global
   - https://github.com/swisskyrepo/PayloadsAllTheThings/
 ### Report
-  - https://github.com/softrams/bulwark
+  - Bulwark: https://github.com/softrams/bulwark
+  - Vulnrepo: https://github.com/kac89/vulnrepo
 ### Labs
   - Kubernetes goat (lab vuln kubernetes): https://github.com/madhuakula/kubernetes-goat
   - Badblood (fills AD domain with structure and thousands of objects): https://github.com/davidprowe/BadBlood
