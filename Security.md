@@ -129,6 +129,7 @@
  - https://github.com/nsacyber/Windows-Secure-Host-Baseline
 
 #### AD
+ - hardenAD: https://github.com/LoicVeirman/SecureAD
  - https://github.com/davidprowe/AD_Sec_Tools
  - https://github.com/mtth-bfft/adeleg
  - Check list ANSSI: https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html
@@ -145,6 +146,8 @@ Activate instance NTDS
 ifm
 Create SYSVOL full E:
 ```
+### o365
+  - https://github.com/Harden365/Harden365
 ### web
  - https://github.com/bunkerity/bunkerweb
 ### DB
