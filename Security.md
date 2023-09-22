@@ -172,6 +172,7 @@ Create SYSVOL full E:
 ### Global
   - https://github.com/swisskyrepo/PayloadsAllTheThings/
 ### Report
+  - PwnDoc: https://github.com/pwndoc/pwndoc
   - Bulwark: https://github.com/softrams/bulwark
   - Vulnrepo: https://github.com/kac89/vulnrepo
 ### Labs
