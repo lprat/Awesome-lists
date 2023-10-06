@@ -108,6 +108,7 @@
    - https://github.com/aquasecurity/kube-bench
    - https://github.com/aquasecurity/kube-hunter
    - https://kubesec.io/
+   - https://github.com/DataDog/KubeHound
  - systemd check security: https://github.com/alegrey91/systemd-service-hardening & https://blog.ilearned.eu/systemd-sandboxing.html
  - Test/valide conf: https://github.com/goss-org/goss
  - Audit ACL & Firewall rules: https://www.batfish.org/
