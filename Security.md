@@ -4,6 +4,10 @@
  - ANSSI Alerte: https://www.cert.ssi.gouv.fr/alerte/
  - OpenCVE: https://www.opencve.io/welcome
  - Twitter CVE hashtag: https://twitter.com/hashtag/cve
+### Vulnerabilies check automation
+ - Code & IAC: https://github.com/ShiftLeftSecurity/sast-scan
+ - Linux, Freebsd, container, ...: https://github.com/future-architect/vuls
+ - All?: https://github.com/aquasecurity/trivy
 ## Tactics and techniques 
  - https://pbom.dev/
  - https://attack.mitre.org/
