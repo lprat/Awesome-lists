@@ -13,7 +13,8 @@
  - https://attack.mitre.org/
  - Actions reponse: https://github.com/atc-project/atc-react
 ## Signature
- - File (Yara): 
+ - File / Memory (Yara):
+    - https://github.com/YARAHQ/yara-forge & https://yarahq.github.io/
     - https://github.com/Yara-Rules
     - https://github.com/InQuest/awesome-yara
  - Event (SIGMA): https://github.com/SigmaHQ/sigma
