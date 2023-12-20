@@ -77,6 +77,7 @@
  - GAPPS: https://github.com/bmarsh9/gapps (dont work fine with firefox, use chrome)
 ### Audit/Compliance
  - AD : https://www.pingcastle.com/
+ - Compliance multi platform (k8s, docker, VM, ...): https://github.com/mondoohq/cnspec 
  - vsphere:
    - https://github.com/DaftPyPosh/vSphereSCG
    - https://github.com/karimhabush/cis-vsphere
