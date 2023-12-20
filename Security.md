@@ -130,6 +130,7 @@
       - https://katacontainers.io/
       - https://gvisor.dev/
     - Network policy exemples: https://github.com/ahmetb/kubernetes-network-policy-recipes
+ - sudo (requires another human to approve): https://github.com/square/sudo_pair 
 ### Windows
  - https://github.com/securitywithoutborders/hardentools
  - https://github.com/simeononsecurity/Standalone-Windows-Server-STIG-Script
