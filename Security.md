@@ -104,6 +104,8 @@
  - Waf:
    - https://github.com/microsoft/WAFBench
    - https://github.com/wallarm/gotestwaf
+ - Nginx:
+   - https://github.com/yandex/gixy   
  - Container vulnerabilities scan
    - https://github.com/aquasecurity/trivy
    - https://github.com/anchore/grype
