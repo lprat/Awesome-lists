@@ -73,6 +73,7 @@
 ## Secrets
   - Hashicorp Vault: https://github.com/hashicorp/vault
   - Bitwarden: https://github.com/bitwarden
+  - Wormhole (send secret): https://github.com/magic-wormhole/magic-wormhole
 ## Git
   - gogs: https://gogs.io/
 ## Share screen
