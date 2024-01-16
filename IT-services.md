@@ -64,6 +64,8 @@
   - proxy DB: https://github.com/cossacklabs/acra
 ## Backup
   - Restic https://restic.net/
+## Snapshot save and restore app
+  - CRIU: https://github.com/checkpoint-restore/criu
 ## Firewall as code
   - https://github.com/google/capirca
 ## CMDB/IPAM/DCIM
