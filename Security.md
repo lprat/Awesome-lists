@@ -128,7 +128,7 @@
  - Linux sandbox firejail: https://github.com/netblue30/firejail
  - Syscall2secomp: https://github.com/aquasecurity/kube-hunter
  - Apparmor profil generator: https://github.com/genuinetools/bane
- - File Access Policy Daemon (kernel >=4.2) https://github.com/linux-application-whitelisting/fapolicyd
+ - File Access Policy Daemon (kernel >=4.2) https://github.com/linux-application-whitelisting/fapolicyd - https://github.com/ctc-oss/fapolicy-analyzer
  - Container hardening:
     - Container as VM:
       - https://katacontainers.io/
