@@ -14,6 +14,8 @@
   - portainer: https://github.com/portainer/portainer
   - https://landscape.cncf.io/
   - TALOS: https://www.talos.dev/
+## Pipeline CI/CD
+  - Dagger: https://dagger.io/
 ## Cloud
   - URLs of Microsoft Administrator Sites: http://msportals.io/?search=
 ## install
