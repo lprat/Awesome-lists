@@ -23,7 +23,7 @@
  - HashR: https://github.com/google/hashr
  - Tls  fingerprint: https://github.com/salesforce/jarm & https://github.com/salesforce/ja3
  - Sysmon Rules: https://github.com/Neo23x0/sysmon-config
- - Auditd Rules: https://github.com/Neo23x0/auditd
+ - Auditd Rules (https://github.com/linux-audit/audit-documentation/wiki/SPEC-Audit-Event-Enrichment): https://github.com/Neo23x0/auditd
  - Falco (equivalent to auditd with some diff -> https://sysdig.com/blog/falco-vs-auditd-hids/): https://github.com/falcosecurity/falco & Rules: https://github.com/falcosecurity/rules
 ## Detect tools
  - https://github.com/jertel/elastalert2
