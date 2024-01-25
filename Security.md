@@ -23,7 +23,7 @@
  - HashR: https://github.com/google/hashr
  - Tls  fingerprint: https://github.com/salesforce/jarm & https://github.com/salesforce/ja3
  - Sysmon Rules: https://github.com/Neo23x0/sysmon-config
- - Auditd Rules: https://github.com/Neo23x0/auditd
+ - Auditd Rules: https://github.com/Neo23x0/auditd (Other tool equivalent auditd -> falco: https://github.com/falcosecurity/falco)
 ## Detect tools
  - https://github.com/jertel/elastalert2
  - https://github.com/palantir/osquery-configuration
