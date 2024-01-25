@@ -77,6 +77,7 @@
 ## Secrets
   - Hashicorp Vault: https://github.com/hashicorp/vault
   - Bitwarden: https://github.com/bitwarden
+  - sealed-secrets: https://github.com/bitnami-labs/sealed-secrets
   - Wormhole (send secret): https://github.com/magic-wormhole/magic-wormhole
 ## Git
   - gogs: https://gogs.io/
