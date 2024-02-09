@@ -25,6 +25,7 @@
 ## automatisation
   - rexify: https://www.rexify.org/
   - ansible: https://galaxy.ansible.com/
+  - AWX: https://github.com/ansible/awx
   - packer: https://www.packer.io/
   - terraform: https://www.terraform.io/
 ### Creation Image
