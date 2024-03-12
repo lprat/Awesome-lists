@@ -150,7 +150,7 @@
  - Check list ANSSI: https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html
  - PAW (machine dédié à l'administration): https://learn.microsoft.com/fr-fr/security/compass/privileged-access-devices
  - FGPP (https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/adac/introduction-to-active-directory-administrative-center-enhancements--level-100-#fine_grained_pswd_policy_mgmt) strategie de mots de passe afinée
- - LAPS (Local Administrator Password Solution)
+ - LAPS (Local Administrator Password Solution) - autre solution possible Vault (https://github.com/scarolan/painless-password-rotation)
  - GMSA - Group Managed Service Accounts (https://www.it-connect.fr/active-directory-utilisation-des-gmsa-group-managed-service-accounts/) - compte de service
  - JEA powershell (https://learn.microsoft.com/fr-fr/powershell/scripting/learn/remoting/jea/overview?view=powershell-7.3) - déleguer des droits powershell sur une machine pour eviter de donner des accès admin
  - ETW log: https://github.com/Processus-Thief/ETWMonitor/blob/main/ETWMonitor%20Agent/ETWService/rules.xml
