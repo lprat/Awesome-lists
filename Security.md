@@ -145,6 +145,7 @@
 
 #### AD
  - hardenAD: https://github.com/LoicVeirman/SecureAD
+ - MSRPC protection: https://github.com/jsecurity101/MSRPC-to-ATTACK
  - https://github.com/davidprowe/AD_Sec_Tools
  - https://github.com/mtth-bfft/adeleg
  - Check list ANSSI: https://www.cert.ssi.gouv.fr/uploads/ad_checklist.html
