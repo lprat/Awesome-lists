@@ -206,6 +206,9 @@ Create SYSVOL full E:
   - https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
   - https://github.com/AlsidOfficial/WSUSpendu
   - https://github.com/Group3r/Group3r
+### Windows RPC
+  - https://github.com/oiweiwei/go-msrpc
+  - https://github.com/FalconOpsLLC/goexec
 ### Web
   - https://portswigger.net/web-security
 ### DB
