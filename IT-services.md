@@ -87,3 +87,5 @@
 ## Security Supervision
   - auditd and sysmon
   - wazuh: https://wazuh.com/
+## IA
+  - https://github.com/ollama/ollama
