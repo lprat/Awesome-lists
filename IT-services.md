@@ -36,6 +36,7 @@
   - Windows: https://github.com/rgl/terraform-libvirt-windows-example
   - Ubuntu: https://github.com/lprat/terraform-libvirt-linux_cloudimage-example
 ## IAM/SSO
+  - authentik: https://goauthentik.io/
   - Keycloack: https://www.keycloak.org/
   - Authelia: https://www.authelia.com/
 ## API Management
@@ -57,6 +58,7 @@
 ## SSH
   - openssh
   - SSH avec auth OIDC: https://github.com/openpubkey/opkssh
+  - sudo with CA SSH: https://github.com/uber/pam-ussh
 ## DNS
   - unbound
   - bind9
