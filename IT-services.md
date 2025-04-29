@@ -56,6 +56,7 @@
   - Rsyslog
 ## SSH
   - openssh
+  - SSH avec auth OIDC: https://github.com/openpubkey/opkssh
 ## DNS
   - unbound
   - bind9
