@@ -122,6 +122,7 @@
    - https://kubesec.io/
    - https://github.com/DataDog/KubeHound
  - systemd check security: https://github.com/alegrey91/systemd-service-hardening & https://blog.ilearned.eu/systemd-sandboxing.html
+   - Systemd Test: "systemd-run --pty --property=User=nobody --property=IPAddressAllow=192.168.1.0/24 --property=IPAddressDeny=any --property=SocketBindAllow=9999 --property=SocketBindDeny=any --property=StateDirectory=wuff /bin/sh"
  - Test/valide conf: https://github.com/goss-org/goss
  - Audit ACL & Firewall rules: https://www.batfish.org/
 ### Linux
